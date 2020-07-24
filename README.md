@@ -1,2 +1,3 @@
 # Checkpoints
-1st checkpoint : let's-test-your-python-skills
+1st checkpoint : Intro to AI
+2nd checkpoint : let's-test-your-python-skills
