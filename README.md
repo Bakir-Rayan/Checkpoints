@@ -7,3 +7,5 @@
 3rd checkpoint : let's-apply-some-data-visulation
 
 4th chechpoint : First Step into machine Learning : regression models
+
+5th checkpoint : Logistics regression
