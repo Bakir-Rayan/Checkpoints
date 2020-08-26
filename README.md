@@ -11,3 +11,5 @@
 5 checkpoint : Logistics regression
 
 6 checkpoint : KNN from scratch 
+
+7 checkpoint : Let's plot some trees
