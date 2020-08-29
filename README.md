@@ -13,3 +13,5 @@
 6 checkpoint : KNN from scratch 
 
 7 checkpoint : Let's plot some trees
+
+8 checkpoint : Let's discover the inherent clusters
