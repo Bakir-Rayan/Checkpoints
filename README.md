@@ -15,3 +15,5 @@
 7 checkpoint : Let's plot some trees
 
 8 checkpoint : Let's discover the inherent clusters
+
+9 checkpoint : Let's Make some new strategies
