@@ -17,3 +17,5 @@
 8 checkpoint : Let's discover the inherent clusters
 
 9 checkpoint : Let's Make some new strategies
+
+10 checkpoint : Final project
