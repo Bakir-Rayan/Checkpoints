@@ -8,4 +8,4 @@ https://www.kaggle.com/puneet6060/intel-image-classification
 https://www.kaggle.com/rayanbak25/project
 
 
-## you can find the work on kaggle if you want .
+
