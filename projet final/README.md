@@ -1,4 +1,4 @@
-## the dataset :
+## the dataset for the CNN model :
 
 https://www.kaggle.com/puneet6060/intel-image-classification
 
